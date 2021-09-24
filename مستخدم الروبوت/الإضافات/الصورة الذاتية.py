@@ -14,13 +14,13 @@ async def oho(event):
         pic,
         caption=f"""
 -تـم جـلب الصـورة بنجـاح ✅
-- CH: @Jmthon
-- Dev: @RR9R7
+- CH: @XTGXX
+- Dev: @X_Q_V
   """,
     )
     await event.delete()
 
 
 # اخمط وسمي روحك مطور ما اوصيك
-# كتابة محمد الزهيري
-# @RR7PP
+# كتابة محمد 
+# @X_Q_V 
